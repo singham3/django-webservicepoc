@@ -1,0 +1,14 @@
+{
+  "username": "admin",
+  "first_name": "admin",
+  "last_name": "admin",
+  "email": "lokesh.sahu@dotsquares.com",
+  "is_superuser": 1,
+  "is_staff": 1,
+  "is_active": 1,
+  "mobile": 9874561230,
+  "dateofbirth" : "08/17/1995",
+  "userimg" : "media/avatar5.png",
+  "loginBrowser": "google Crome",
+  "password": "asdf",
+}
